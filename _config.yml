@@ -6,7 +6,7 @@ gems:
 exclude:
   - "/vendor/"
 
-# Site settings
+# Site settings 
 title: Festival de Jeux–Bulle de Crystal
 subtitle: "14-15 mai 2016, 1630 Bulle"
 email: info@bulledecrystal.club
