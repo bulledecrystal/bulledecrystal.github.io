@@ -2,7 +2,7 @@
 layout: post
 title: Infos pratiques
 permalink: /infos/
-cover:  "/assets/Bulle.jpg"
+cover:  "/assets/bulle.jpg"
 ---
 
 #Adresse
