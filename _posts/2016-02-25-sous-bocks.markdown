@@ -6,7 +6,7 @@ author: webmaster
 categories: conv2016
 ---
 
-En exclusivité mondiale, les **sous-bocks** du festival!
+En exclusivité mondiale, les **sous-bocks** des 20 ans de Bulle de Crystal!
 
 ![sous-bock pic](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sous-bocks Bulle de Crystal")
 
