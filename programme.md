@@ -5,7 +5,7 @@ permalink: /programme/
 cover:  "/assets/jeux.jpg"
 ---
 
-#Samedi 14 mai 2016
+# Samedi 14 mai 2016
 
 || Jeux de rôle        | Jeux de plateau           | Magic the Gathering  |
 || ------------- |:-------------:| -----:|
@@ -15,7 +15,7 @@ midi | col 2 is      | centered      |   $12 |
 
 ___
 
-#Dimanche 15 mai 2016
+# Dimanche 15 mai 2016
 
 |    Year|Make     |    Model                        |
 | -------------------------------------------------- |
