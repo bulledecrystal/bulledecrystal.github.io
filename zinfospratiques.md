@@ -36,4 +36,4 @@ Plusieurs types de jeux de simulation seront proposés; jetez un coup d'oeil à 
 ---
 
 # Questions?
-N'hésitez pas à nous contacter pour toute question ou pour proposer une activité: mailto:info@bulledecrystal.club
+N'hésitez pas à nous contacter pour toute question ou pour proposer une activité: [info@bulledecrystal.club](mailto:info@bulledecrystal.club)
