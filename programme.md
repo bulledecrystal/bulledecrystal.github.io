@@ -5,21 +5,21 @@ permalink: /programme/
 cover:  "/assets/jeux.jpg"
 ---
 
+Le programme est indicatif! Il y aura notamment:
+
+* des jeux de plateau
+* des jeus de rôle
+* des figs 
+* du Magic 
+
+... et à boire et à manger toute la journée et la nuit!
+
 # Samedi 14 mai 2016
 
-|| Jeux de rôle        | Jeux de plateau           | Magic the Gathering  |
-|| ------------- |:-------------:| -----:|
-10h | col 3 is      | right-aligned | $1600 |
-midi | col 2 is      | centered      |   $12 |
-14h| zebra stripes | are neat      |    $1 |
+<iframe src="https://docs.google.com/spreadsheets/d/1P9fTEVk-bEqWKDxWXCBr1NnSIpXGB04xY8Zdbz-Loag/pubhtml?gid=2007286678&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" width="600" height="440" frameborder="0" scrolling="no"></iframe>
 
 ___
 
 # Dimanche 15 mai 2016
 
-|    Year|Make     |    Model                        |
-| -------------------------------------------------- |
-|    1997|Ford     |    E350                         |
-|    1999|Chevy    |    Venture "Extended Edition"   |
-|    1999|Chevy    |    Venture "Extended Edition"   |
-|    1996|Jeep     |    Grand Cherokee               |
+<iframe src="https://docs.google.com/spreadsheets/d/1P9fTEVk-bEqWKDxWXCBr1NnSIpXGB04xY8Zdbz-Loag/pubhtml?gid=1231439925&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" width="600" height="440" frameborder="0" scrolling="no"></iframe>
