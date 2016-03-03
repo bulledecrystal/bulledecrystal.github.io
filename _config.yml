@@ -51,6 +51,9 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+    
+  - cat: Conv2016
+    desc: "Festival de Jeux 2016"
 
 # Social icons and sharing options
 #
