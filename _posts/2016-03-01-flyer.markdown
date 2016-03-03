@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Flyer"
+date:   2016-03-01 10:43:59
+author: webmaster
+categories: conv2016
+---
+
+Le flyer de notre festival de jeux est maintenant disponible [[pdf](assets/Conv-Flyer-WEB-UL.pdf)]!
+<table>
+  <tr>
+    <td> <img src="assets/Conv-Flyer-WEB.jpg" alt="FlyerA" style="width: 300px;"/> </td>
+    <td> <img src="assets/Conv-Flyer-WEB2.jpg" alt="FlyerB" style="width: 300px;"/> </td> 
+</table>
+
+
+
