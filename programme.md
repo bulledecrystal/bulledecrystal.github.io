@@ -8,7 +8,7 @@ cover:  "/assets/jeux.jpg"
 Le programme est indicatif! Il y aura notamment:
 
 * des jeux de plateau
-* des jeus de rôle
+* des jeux de rôle
 * des figs 
 * du Magic 
 

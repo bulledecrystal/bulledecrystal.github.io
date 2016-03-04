@@ -6,7 +6,7 @@ author: webmaster
 categories: conv2016
 ---
 
-Une première version du [programme](programme) ainsi que quelques [infos pratiques](infos) sont en ligne. 
+Une première version du [programme](/programme/) ainsi que quelques [infos pratiques](/infos/) sont en ligne. 
 
 
 
