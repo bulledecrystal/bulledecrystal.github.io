@@ -4,7 +4,7 @@ gems:
   - jekyll-sitemap
 
 exclude:
-  - "/vendor/"
+  - "/vendor/" 
 
 # Site settings 
 title: Festival de Jeux–Bulle de Crystal
