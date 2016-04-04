@@ -15,8 +15,8 @@ Rue de Dardens 15\\
 ---
 
 # Horaires
-**Samedi 15 mai**: 10h - minuit\\
-**Dimanche 16 mai**: 10h - 22h 
+**Samedi 14 mai**: 10h - minuit\\
+**Dimanche 15 mai**: 10h - 22h 
 
 ---
 
