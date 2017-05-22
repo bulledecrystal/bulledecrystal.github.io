@@ -8,7 +8,7 @@ exclude:
 
 # Site settings 
 title: Festival de Jeux–Bulle de Crystal
-subtitle: "14-15 mai 2016, 1630 Bulle"
+subtitle: "03-04 juin 2017, 1630 Bulle"
 email: info@bulledecrystal.club
 name: Bulle de Crystal
 description: >
@@ -54,6 +54,9 @@ descriptions:
     
   - cat: conv2016
     desc: "Festival de Jeux 2016"
+	
+  - cat: conv2017
+    desc: "Festival de Jeux 2017"
 
 # Social icons and sharing options
 #
