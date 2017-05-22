@@ -53,10 +53,10 @@ descriptions:
     desc: "Just some placeholder posts, lorem ipsum and the rest."
     
   - cat: conv2016
-    desc: "Festival de Jeux 2016"
+	desc: "Festival de Jeux 2016"
 
   - cat: conv2017
-    desc: "Festival de Jeux 2017"
+	desc: "Festival de Jeux 2017"
 
 # Social icons and sharing options
 #
