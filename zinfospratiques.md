@@ -9,13 +9,13 @@ cover:  "/assets/bulle.jpg"
 Rue de la Perreire 3\\
 1635 La Tour-de-Trême
 
-<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:300px;width:600px;'><div id='gmap_canvas' style='height:300px;width:600px;'></div><div><small><a href="http://embedgooglemaps.com">									embed google map							</a></small></div><div><small><a href="http://freedirectorysubmissionsites.com/">reedirectorysubmissionsites.com</a></small></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:16,center:new google.maps.LatLng(46.60953,7.0651377),mapTypeId: google.maps.MapTypeId.TERRAIN};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(46.60953,7.0651377)});infowindow = new google.maps.InfoWindow({content:'<br>Rue de la Perreire 3, 1635 La Tour-de-Trême, Switzerland<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:600px;width:300px;'><div id='gmap_canvas' style='height:600px;width:300px;'></div><div><small><a href="http://embedgooglemaps.com">embed google maps</a></small></div><div><small><a href="http://promocode.com.ph/zalora/">looking for more Zalora coupon code? Click here to find more info</a></small></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:16,center:new google.maps.LatLng(46.6094459,7.066181000000029),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(46.6094459,7.066181000000029)});infowindow = new google.maps.InfoWindow({content:'<strong>Festival de Jeux</strong><br>Rue de la Perreire 3<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
 
 ---
 
 # Horaires
-**Samedi 14 mai**: 10h - minuit\\
-**Dimanche 15 mai**: 10h - 22h 
+**Samedi 3 juin**: 10h - 22h\\
+**Dimanche 15 mai**: 10h - 20h 
 
 ---
 
