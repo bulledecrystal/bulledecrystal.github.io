@@ -7,11 +7,9 @@ exclude:
   - "/vendor/" 
 
 # Site settings 
-title: |   
-    | Festival de Jeux de la Gruyère   
-    | Bulle de Crystal    
+title: Festival de Jeux de la Gruyère
 
-subtitle: "03-04 juin 2017, 1630 Bulle"
+subtitle: "Bulle de Crystal – 3 & 4 juin 2017, La Tour-de-Trême"
 email: info@bulledecrystal.club
 name: Bulle de Crystal
 description: >
