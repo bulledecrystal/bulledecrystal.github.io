@@ -7,9 +7,10 @@ exclude:
   - "/vendor/" 
 
 # Site settings 
-title: "Festival de Jeux de la Gruyère  
+title: |
+    | Festival de Jeux de la Gruyère 
+    | Bulle de Crystal 
 
-Bulle de Crystal"
 subtitle: "03-04 juin 2017, 1630 Bulle"
 email: info@bulledecrystal.club
 name: Bulle de Crystal
