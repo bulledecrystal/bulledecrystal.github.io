@@ -19,11 +19,6 @@ Rue de la Perreire 3\\
 
 ---
 
-# Parking
-Parking gratuit en face de la salle.
-
----
-
 # Nourriture + boissons
 Des snacks, repas chauds & boissons seront proposés à prix modiques. 
 
