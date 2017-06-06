@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Photos Conv'2017"
+date:   2017-06-06 10:43:59
+author: webmaster
+categories: conv2017
+---
+
+Merci à tous pour votre participation au Festival de Jeux de la Gruyère (édition 2017)! Quelques photos de l'événement ci-dessous (© Laurent Pillet)
+
+<table>
+  <tr>
+    <td> <img src="/assets/Flyer2017.jpg" alt="FlyerA" style="width: 200px;"/> </td>
+	<td> <img src="/assets/Flyer2017.jpg" alt="FlyerA" style="width: 200px;"/> </td>
+  </tr>
+  <tr>
+    <td> <img src="/assets/Flyer2017.jpg" alt="FlyerA" style="width: 200px;"/> </td>
+	<td> <img src="/assets/Flyer2017.jpg" alt="FlyerA" style="width: 200px;"/> </td>
+  </tr>
+</table>
+
+
+
