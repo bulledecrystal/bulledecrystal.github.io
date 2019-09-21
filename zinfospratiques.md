@@ -6,16 +6,18 @@ cover:  "/assets/bulle.jpg"
 ---
 
 # Adresse
+Salle des Sociétés\\
 Rue de la Perreire 3\\
 1635 La Tour-de-Trême
 
-<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:350px;width:600px;'><div id='gmap_canvas' style='height:350px;width:600px;'></div><div><small><a href="http://embedgooglemaps.com">embed google maps</a></small></div><div><small><a href="http://promocode.com.ph/zalora/">looking for more Zalora coupon code? Click here to find more info</a></small></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:16,center:new google.maps.LatLng(46.6094459,7.066181000000029),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(46.6094459,7.066181000000029)});infowindow = new google.maps.InfoWindow({content:'<strong>Festival de Jeux</strong><br>Rue de la Perreire 3, 1635 La Tour-de-Trême<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1370.4381919254497!2d7.065086657384427!3d46.6094458686964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e6277a19f3d61%3A0x28ca22685cbf1dc1!2sRue%20de%20la%20Perreire%203%2C%201635%20La%20Tour-de-Tr%C3%AAme!5e0!3m2!1sen!2sch!4v1569051003230!5m2!1sen!2sch" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 ---
 
 # Horaires
-**Samedi 3 juin**: 10h - 22h\\
-**Dimanche 15 mai**: 10h - 20h 
+**Samedi 9 novembre**: 10h - minuit\\
+**Dimanche 10 novembre**: 10h - 17h 
 
 ---
 
