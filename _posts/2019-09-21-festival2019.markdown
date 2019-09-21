@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Festival 2019"
+date:   2019-09-21 08:43:59
+author: webmaster
+categories: conv2019
+---
+
+Le Festival de Jeux de la Gruyère revient pour une nouvelle édition[[Flyer pdf](/assets//Flyer2017.pdf)]! 
+
+L'événement aura lieu:
+- le samedi 9 novembre 2019 de 10h à minuit, ainsi que 
+- le dimanche 10 novembre de 10h à 17h.
+à la salle des sociétés de La-Tour-de-Trême.
+
+<table>
+  <tr>
+    <td> <img src="/assets/Flyer2019.jpg" alt="FlyerA" style="width: 440px;"/> </td>
+  </tr>
+</table>
+
+
+
