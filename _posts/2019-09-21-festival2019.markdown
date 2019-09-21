@@ -6,7 +6,7 @@ author: webmaster
 categories: conv2019
 ---
 
-Le Festival de Jeux de la Gruyère revient en 2019[[Flyer pdf](/assets//Flyer2019.pdf)]! 
+Le Festival de Jeux de la Gruyère revient en 2019 [[Flyer pdf](/assets//Flyer2019.pdf)]! 
 
 - le samedi 9 novembre 2019 de 10h à minuit, ainsi que 
 - le dimanche 10 novembre de 10h à 17h.
@@ -22,7 +22,7 @@ Entrée libre le samedi de 10h00 à minuit et le dimanche de 10h à 17h. Boisson
 
 <table>
   <tr>
-    <td> <img src="/assets/Flyer2019.jpg" alt="FlyerA" style="width: 440px;"/> </td>
+    <td> <img src="/assets/Flyer2019.jpg" alt="FlyerA" style="width: 600px;"/> </td>
   </tr>
 </table>
 
