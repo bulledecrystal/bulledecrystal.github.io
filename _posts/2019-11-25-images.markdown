@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Photos Conv'2017"
+title:  "Photos Conv'2019"
 date:   2019-11-24 10:43:59
 author: webmaster
 categories: conv2019
@@ -11,9 +11,9 @@ Merci à tous pour votre participation au Festival de Jeux de la Gruyère (édit
 <table>
   <tr>
     <td> <a href="/assets/con2017_1.jpg"> <img src="/assets/conv2019_1.jpg" alt="pic" style="width: 200px;"/> </a> </td>
-    <td> <a href="/assets/con2017_2.jpg"> <img src="/assets/conv2019_2.jpg" alt="pic" style="width: 200px;"/> </a> </td>
-    <td> <a href="/assets/con2017_3.jpg"> <img src="/assets/conv2019_3.jpg" alt="pic" style="width: 200px;"/> </a> </td>
-    <td> <a href="/assets/con2017_4.jpg"> <img src="/assets/conv2019_4.jpg" alt="pic" style="width: 200px;"/> </a> </td>
+    <td> <a href="/assets/con2017_2.jpg"> <img src="/assets/conv2019_3.jpg" alt="pic" style="width: 200px;"/> </a> </td>
+    <td> <a href="/assets/con2017_3.jpg"> <img src="/assets/conv2019_4.jpg" alt="pic" style="width: 200px;"/> </a> </td>
+    <td> <a href="/assets/con2017_4.jpg"> <img src="/assets/conv2019_2.jpg" alt="pic" style="width: 200px;"/> </a> </td>
   </tr>
   <tr>
     <td> <a href="/assets/con2017_5.jpg"> <img src="/assets/conv2019_5.jpg" alt="pic" style="width: 200px;"/> </a> </td>
